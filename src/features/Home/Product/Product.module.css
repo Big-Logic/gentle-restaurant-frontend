@@ -1,0 +1,31 @@
+.sectionContainer {
+  background: url("./ctabg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 40rem;
+}
+
+.contentContainer {
+  width: 60rem;
+}
+
+.heading {
+  font-size: 6rem;
+  color: var(--light-color);
+}
+
+.ctaBtn {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+/* .hm {
+  display: flex;
+  justify-content: center;
+} */

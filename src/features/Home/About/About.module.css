@@ -1,0 +1,23 @@
+.section {
+  background-color: var(--light-color);
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 60fr 40fr;
+  align-items: center;
+}
+
+.imageContainer {
+  max-width: 50rem;
+  height: 55rem;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 4rem;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}

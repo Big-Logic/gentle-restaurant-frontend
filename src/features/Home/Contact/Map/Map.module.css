@@ -1,0 +1,9 @@
+.mapContainer {
+  height: 40rem;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.mapPopup {
+  font-size: 2rem;
+}

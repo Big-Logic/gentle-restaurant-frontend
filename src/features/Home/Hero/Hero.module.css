@@ -1,0 +1,34 @@
+.section {
+  background: url("./herobg.jpg");
+  background-size: cover;
+  background-position: top right;
+  position: relative;
+  /* height: 100vh; */
+}
+.container {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+}
+
+.mainHeading {
+  font-size: 6rem;
+  max-width: 60rem;
+  color: #fefae0;
+}
+
+.buttonsContainer {
+  margin-top: 6rem;
+  display: flex;
+  gap: 4rem;
+}
+
+.ctaBtn {
+  background-color: var(--primary-color);
+  color: var(--light-color);
+}
+
+.ctaBorderBtn {
+  border: 1px solid var(--secondary-color);
+  color: var(--light-color);
+}

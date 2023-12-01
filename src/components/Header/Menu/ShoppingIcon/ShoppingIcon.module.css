@@ -1,0 +1,21 @@
+.shoppingIcon {
+  font-size: 2.5rem;
+  position: relative;
+  color: var(--light-color);
+}
+
+.shoppingFigure {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  font-size: 1rem;
+  background-color: var(--secondary-color);
+  color: var(--light-color);
+  transform: translateX(50%);
+  border-radius: 50%;
+}

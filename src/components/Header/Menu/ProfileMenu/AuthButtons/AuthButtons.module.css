@@ -1,0 +1,15 @@
+.ctaBtn {
+  background-color: var(--secondary-color);
+}
+
+.loginSignupContainer {
+  border-left: 1px solid var(--light-color);
+  padding-left: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.loginSignupContainer a {
+  color: var(--light-color);
+}

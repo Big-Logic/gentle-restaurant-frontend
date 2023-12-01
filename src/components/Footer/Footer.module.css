@@ -1,0 +1,19 @@
+.container {
+  padding: 8rem 2rem;
+  background-color: var(--light-color);
+  text-align: center;
+}
+
+.innerContainer {
+  max-width: 110rem;
+  margin: 0 auto;
+}
+
+.heading {
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+.copyright {
+  margin-top: 2rem;
+}

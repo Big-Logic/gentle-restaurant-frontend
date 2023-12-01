@@ -1,0 +1,16 @@
+.section {
+  background-color: #ffcf9d;
+}
+.container {
+  display: grid;
+  grid-template-columns: 30fr 70fr;
+  gap: 3rem;
+}
+.heading2 {
+  margin-top: 2rem;
+}
+
+.contactNum {
+  color: #444;
+  display: block;
+}

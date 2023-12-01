@@ -1,0 +1,18 @@
+.nav {
+  display: grid;
+  grid-template-columns: 6rem 1fr;
+  align-items: center;
+  color: var(--light-color);
+}
+
+.navContent {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 3rem;
+}
+
+.menu {
+  margin: 0 1.8rem;
+  color: var(--light-color);
+}

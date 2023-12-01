@@ -1,0 +1,26 @@
+.container {
+  display: grid;
+  grid-template-columns: 14rem 1fr;
+  align-items: center;
+  gap: 3rem;
+}
+
+.imageContainer {
+  height: 14rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.mainMessage {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.userName {
+  font-weight: 500;
+}
