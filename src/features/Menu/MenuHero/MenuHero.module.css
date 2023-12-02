@@ -1,0 +1,6 @@
+.section {
+  padding: 4rem 2rem;
+  background: url("./menubg.jpg");
+  background-size: cover;
+  background-position: bottom left;
+}
