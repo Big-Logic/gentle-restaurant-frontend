@@ -6,7 +6,6 @@ import styles from "./MenuHero.module.css";
 const brc = [
   { link: "/home", title: "Home" },
   { link: "/menu", title: "Menu" },
-  { link: "/About", title: "About" },
 ];
 function MenuHero() {
   return (

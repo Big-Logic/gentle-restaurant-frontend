@@ -1,4 +1,9 @@
 .item {
   display: inline-block;
   padding: 0.2rem 1rem;
+  color: var(--light-color);
+}
+
+.item:last-child {
+  text-decoration: underline;
 }
